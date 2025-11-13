@@ -18,15 +18,15 @@ O jogo funciona de maneira simples, o jogador seleciona a carta que deseja jogar
 <div style="display: flex; gap: 20px;">
   <div style="display: flex; flex-direction: column">
     <h4 style="text-align: center" >Dark Magician | Pedra</h4>
-    <img src="./src/assets/icons/magician2.png" title="Dragão Branco de olhos azuis" alt="Carta Dragão Branco de olhos azuis" height="300px" width="230px">
+    <img src="./src/assets/icons/magician.png" title="Dragão Branco de olhos azuis" alt="Carta Dragão Branco de olhos azuis" height="300px" width="230px">
   </div>
   <div style="display: flex; flex-direction: column">
     <h4 style="text-align: center">Blue Eyes White Dragon | Papel</h4>
-    <img src="./src/assets/icons/dragon2.png" title="Dragão Branco de olhos azuis" alt="Carta Dragão Branco de olhos azuis" height="300px" width="230px">
+    <img src="./src/assets/icons/dragon.png" title="Dragão Branco de olhos azuis" alt="Carta Dragão Branco de olhos azuis" height="300px" width="230px">
   </div>
   <div style="display: flex; flex-direction: column">
     <h4 style="text-align: center">Exodia | Tesoura</h4>
-    <img src="./src/assets/icons/exodia2.png" title="Dragão Branco de olhos azuis" alt="Carta Dragão Branco de olhos azuis" height="300px" width="230px">
+    <img src="./src/assets/icons/exodia.png" title="Dragão Branco de olhos azuis" alt="Carta Dragão Branco de olhos azuis" height="300px" width="230px">
   </div>
 </div>
 <br/>
